@@ -1,0 +1,2 @@
+execute store result score .global timequerry run time query daytime
+execute at @a[x_rotation=-95..-85,y_rotation=-6..0] if score .global timequerry >= int0-6 timequerry if score .global timequerry < int6-12 timequerry run summon wolf ~ ~ ~5
