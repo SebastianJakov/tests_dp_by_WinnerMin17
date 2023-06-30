@@ -1,0 +1,1 @@
+data merge entity @e[limit=1,type=minecraft:arrow,distance=..3] {pickup:0b,life:-32768s}
