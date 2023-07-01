@@ -17,4 +17,4 @@ setblock ~ ~2 ~ wheat[age=6]
 
 ## Debug
 #activar results en la sidebar | Debug de fill en tick..corn
-scoreboard objectives setdisplay sidebar results
+#scoreboard objectives setdisplay sidebar results
