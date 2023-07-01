@@ -1,0 +1,1 @@
+execute as @e[tag=Arrow_in_hay_block] at @s run data merge entity @s {pickup:0b,life:-32768s}

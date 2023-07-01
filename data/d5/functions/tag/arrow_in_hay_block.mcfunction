@@ -1,1 +1,1 @@
-data merge entity @e[limit=1,type=minecraft:arrow,distance=..3] {pickup:0b,life:-32768s}
+tag @e[limit=1,type=minecraft:arrow,distance=..3] add Arrow_in_hay_block
