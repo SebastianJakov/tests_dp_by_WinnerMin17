@@ -1,0 +1,3 @@
+function d6:tick/entity/falling_honey_item_frame
+function d6:tick/entity/falling_slime_item_frame
+function d6:tick/entity/arrow_in_hay_block
