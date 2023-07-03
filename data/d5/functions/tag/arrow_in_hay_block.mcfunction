@@ -1,1 +1,0 @@
-tag @e[limit=1,type=minecraft:arrow,distance=..3] add Arrow_in_hay_block
