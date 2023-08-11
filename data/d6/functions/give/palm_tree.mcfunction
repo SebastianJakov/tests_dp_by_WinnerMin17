@@ -2,7 +2,8 @@
 #1
 give @s pointed_dripstone 1
 #2
-give @s moss_block 1
+#give @s moss_block 1
+give @s mangrove_roots 1
 #3
 give @s jungle_wood 1
 #4
