@@ -1,3 +1,5 @@
+# Exercices #  Tema: patas de metal plegables (inspi: ironing_board)
+#
 #Img: (1) https://www.depiesymanosacademy.com/wp-content/plugins/aawp/public/image.php?url=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNDF6bnZpOEV3TEwuanBn
 #     (Diseño personal)
 #(!)  Revisar. La parte de la cabecera parece ser muy grande y sus colores no tienen muy buen fundido

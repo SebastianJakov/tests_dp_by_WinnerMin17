@@ -1,3 +1,5 @@
+# Exercices #  Tema: patas de metal plegables (inspi: ironing_board)
+#
 #Img: (1) https://i.pinimg.com/236x/e4/5b/d8/e45bd8632e5bb583bf4910de7c87cc87.jpg
 #     (Diseño personal)
 #(!)  Revisar. Patas de la mesa desplegada para que el diseño funda más con
