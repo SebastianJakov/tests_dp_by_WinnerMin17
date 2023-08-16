@@ -12,9 +12,9 @@ give @s stone_stairs 1
 give @s andesite 1
 #4
 give @s iron_ore 1
-#3
+#6
 give @s brown_mushroom_block 1
-#3
+#7
 give @s dark_oak_sign 1
-#3
+#8
 give @s debug_stick 1
