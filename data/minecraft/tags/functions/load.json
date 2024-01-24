@@ -3,6 +3,7 @@
         "d4:load",
         "d5:load",
         "d6:load",
-        "d7:load"
+        "d7:load",
+        "n:otebook/load"
     ]
 }
