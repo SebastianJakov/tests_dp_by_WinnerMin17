@@ -1,2 +1,4 @@
-scoreboard objectives remove killedZombie
 scoreboard objectives remove killpts
+
+scoreboard objectives remove killedZombie
+#...
