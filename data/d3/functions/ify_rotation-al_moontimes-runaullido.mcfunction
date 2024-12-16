@@ -1,0 +1,1 @@
+execute if score @s y_rotation >= .y_rotation-al- moontime if score @s y_rotation <= .y_rotation-al+ moontime run function d3:aullar3s

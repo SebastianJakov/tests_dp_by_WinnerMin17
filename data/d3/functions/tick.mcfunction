@@ -2,11 +2,11 @@
 execute store result score .global moontime run time query gametime
 scoreboard players operation .global moontime %= #192000t moontime
 
-execute if score .global moontime matches 12000..24000 run function d3:storeangle
+execute as @a store result score @s y_rotation run data get entity @s Rotation[1] 1.0
 
-#x_rotation hacia HORIZONTE DE ASCENSO DE LA LUNA
-execute at @a[y_rotation=-10..0] if score .moontime-nal angle matches -10..0 run function d3:aullar3s
-#...
-#x_rotation hacia HORIZONTE DE DESCENSO DE LA LUNA
-execute at @a[y_rotation=-90..-81] if score .moontime-nal angle matches -90..-81 run function d3:aullar3s
-#...
+execute if score .global moontime matches 12000..24000 run function d3:storey_rotation-al
+
+#(90)
+execute as @a[x_rotation=80..100] at @s run function d3:ify_rotation-al_moontimes-runaullido
+#(-90)
+execute as @a[x_rotation=-100..-80] at @s run function d3:ify_rotation-al_moontimes-runaullido
