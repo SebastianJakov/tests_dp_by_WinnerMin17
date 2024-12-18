@@ -9,8 +9,9 @@ scoreboard players set .y_rotation-al moontime 0
 scoreboard players set .y_rotation-al- moontime 0
 scoreboard players set .y_rotation-al+ moontime 0
 scoreboard players set #192000t moontime 192000
+scoreboard players set #12786t moontime 12786
 scoreboard players set #12000t moontime 12000
-scoreboard players set #6000/-90dgr y_rotation -67
-scoreboard players set #6000/90dgr y_rotation 67
+scoreboard players set #5215/-90dgr y_rotation -57
+scoreboard players set #5215/90dgr y_rotation 57
 scoreboard players set #180dgr y_rotation 180
 scoreboard players set #5dgr y_rotation 5
