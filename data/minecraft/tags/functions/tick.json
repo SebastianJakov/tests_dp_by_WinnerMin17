@@ -1,6 +1,7 @@
 {
         "values": [
         "d2:tick",
+        "d3:tick/playsounding_howl",
         "d3:tick",
         "d4:tick",
         "d5:tick",
