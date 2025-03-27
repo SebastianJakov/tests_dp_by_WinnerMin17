@@ -2,7 +2,7 @@
 execute store result score .global moontime run time query gametime
 scoreboard players operation .global moontime %= #8d moontime
 
-execute as @a store result score @s y_rotation run data get entity @s Rotation[1]
+execute as @a store result score @s y_rotation run data get entity @s Rotation[1] 1
 
 #ascenso..&..descenso
 execute if score .global moontime matches 12786..23216 run function d3:store_player_score/y_rotational_moontime
