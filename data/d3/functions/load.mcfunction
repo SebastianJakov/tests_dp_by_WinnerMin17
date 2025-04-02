@@ -1,4 +1,4 @@
-#ESPACIO DE NOMBRES: D3
+#IDEA_AULLIDO: D3
 # Idea: "Miras a la Luna llena y suena un aullido de lobo"
 say Aullido
 
